@@ -1,0 +1,22 @@
+
+{
+  "chart_title": "Favorite Dessert Flavors",
+  "data_points": [
+    {
+      "label": "Strawberry",
+      "value": 8
+    },
+    {
+      "label": "Chocolate",
+      "value": 10
+    },
+    {
+      "label": "Matcha",
+      "value": 6
+    },
+    {
+      "label": "Vanilla",
+      "value": 5
+    }
+  ]
+}
